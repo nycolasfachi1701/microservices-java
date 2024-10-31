@@ -1,0 +1,10 @@
+package br.edu.atitus.paradigma.api_gateway_service.configs;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class ApiGatewayConfig {
+
+		
+	
+}
