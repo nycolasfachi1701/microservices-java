@@ -1,10 +1,10 @@
-package br.edu.atitus.paradigma.eureka_service;
+package br.edu.atitus.paradigma.cambio_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EurekaServiceApplicationTests {
+class CambioServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
