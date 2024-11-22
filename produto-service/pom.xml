@@ -83,14 +83,21 @@
 	</dependencies>
 
 	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-	</build>
-
+    <plugins>
+        <plugin>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-maven-plugin</artifactId>
+            <configuration>
+                <image>
+                    <builder>paketobuildpacks/builder:base</builder>
+                    <env>
+                        <BP_JVM_VERSION>17</BP_JVM_VERSION>
+                    </env>
+                </image>
+            </configuration>
+        </plugin>
+    </plugins> 
+</build>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>

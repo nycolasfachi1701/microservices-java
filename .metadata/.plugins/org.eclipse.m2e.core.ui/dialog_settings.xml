@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\nycom\OneDrive\Documentos\Atitus 4° Semestre\Paradigma de Linguagens da Programação\micro-empresa\microservices-java"/>
+			<item value="C:\Users\nycom\OneDrive\Documentos\Atitus 4° Semestre\Paradigma de Linguagens da Programação\micro-service"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -12,9 +12,5 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
-	</section>
-	<section name="org.eclipse.m2e.core.pom.overview">
-	</section>
-	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
