@@ -6751,3 +6751,21 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-21 20:39:58.766
 !MESSAGE Classpath changed for project: eureka-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-21 22:25:17.246
+!MESSAGE Classpath changed for project: cambio-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-21 22:25:17.262
+!MESSAGE Classpath changed for project: api-gateway-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-21 22:25:17.262
+!MESSAGE Classpath changed for project: config-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-21 22:25:17.262
+!MESSAGE Classpath changed for project: eureka-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-21 22:25:17.262
+!MESSAGE Classpath changed for project: produto-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-21 22:25:17.262
+!MESSAGE Classpath changed for project: saudacao-service
